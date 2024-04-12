@@ -1,0 +1,2 @@
+# JatziJava
+Yksinkertaistettu versio noppapelistä
